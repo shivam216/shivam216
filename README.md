@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivam216
-- 👀 I’m interested in machine learning and data analysis
-- 🌱 I’m currently learning deep learining
-- 💞️ I’m looking to collaborate on projects based on machine learning
+- 👀 I’m interested in Machine Learning and Data Analysis
+- 🌱 I’m currently learning Deep Learining
+- 💞️ I’m looking to collaborate on projects based on Machine Learning
 - 📫 How to reach me 
 
 <!---
